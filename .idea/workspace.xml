@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53fa932e-05a6-4b70-ac13-dbd357293448" name="Changes" comment="Пусковой файл проекта">
-      <change afterPath="$PROJECT_DIR$/.idea/course_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/base_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/hh_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/csv_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/json_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/txt_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vacancy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_base_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_csv_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_json_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_txt_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_user_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_vacancy.py" afterDir="false" />
+    <list default="true" id="53fa932e-05a6-4b70-ac13-dbd357293448" name="Changes" comment="Реализация тестов для написанного кода и API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,12 +119,39 @@
       <option name="project" value="LOCAL" />
       <updated>1769953351622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сегмент кода проекта для работы с API платформ вакансий">
+      <option name="closed" value="true" />
+      <created>1769961216588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769961216588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Реализация кода функционала работы с данными о вакансиях hh.ru">
+      <option name="closed" value="true" />
+      <created>1769972594780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769972594780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Реализация тестов для написанного кода и API">
+      <option name="closed" value="true" />
+      <created>1770019780242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770019780242</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project, for coursework2" />
     <MESSAGE value="Пусковой файл проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пусковой файл проекта" />
+    <MESSAGE value="Сегмент кода проекта для работы с API платформ вакансий" />
+    <MESSAGE value="Реализация кода функционала работы с данными о вакансиях hh.ru" />
+    <MESSAGE value="Реализация тестов для написанного кода и API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализация тестов для написанного кода и API" />
   </component>
 </project>
